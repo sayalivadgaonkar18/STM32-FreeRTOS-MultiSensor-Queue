@@ -59,8 +59,4 @@ This project demonstrates a real-world **Producer → Queue → Consumer** RTOS 
 
 # System Architecture
 
-Temperature Task -----\
-                       \
-Humidity Task ----------> Shared Queue --------> UART Task
-                       /
-Pressure Task --------/
+Temperature Task / Humidity Task / Pressure Task  ------> Shared Queue ------> UART Task

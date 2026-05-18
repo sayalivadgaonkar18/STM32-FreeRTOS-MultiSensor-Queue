@@ -1,0 +1,50 @@
+# Build folders
+Debug/
+Release/
+
+# STM32CubeIDE generated settings
+.settings/
+.metadata/
+
+# Temporary files
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.list
+
+# Executable files
+*.exe
+
+# Logs
+*.log
+
+# STM32CubeIDE cache/index
+.cache/
+.clangd/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Backup files
+*~
+*.bak
+
+# Eclipse files
+*.launch
+
+# Generated binaries
+*.bin
+*.hex
+
+# Debugger files
+*.stlink
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Misc
+*.tmp

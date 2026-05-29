@@ -60,3 +60,6 @@ This project demonstrates a real-world **Producer → Queue → Consumer** RTOS 
 # System Architecture
 
 Temperature Task / Humidity Task / Pressure Task  ------> Shared Queue ------> UART Task
+
+## Output Image
+![Image](https://github.com/sayalivadgaonkar18/STM32-FreeRTOS-MultiSensor-Queue/blob/main/Images/output.png?raw=true)
